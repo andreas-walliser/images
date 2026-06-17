@@ -1,2 +1,2 @@
 # images
-private repo for image hosting
+public repo for image hosting
